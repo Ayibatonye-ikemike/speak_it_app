@@ -1,0 +1,1 @@
+web: gunicorn speak_it_app.wsgi
